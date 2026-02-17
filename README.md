@@ -7,7 +7,7 @@ Creates random passwords based on your preferences. You can choose:
 Include uppercase letters (A-Z)
 Include lowercase letters (a-z)
 Include numbers (0-9)
-Include symbols (!@#$%^&*)
+Include symbols (!@#$%^&*) 
 
 ## How to use
 
