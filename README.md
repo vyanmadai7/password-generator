@@ -27,4 +27,4 @@ Instant password generation
 Customizable length and character types
 
 ## Tech
-Just vanilla HTML, CSS, and JavaScript. No frameworks, no dependencies.
+Just vanilla HTML, CSS, and JavaScript.
