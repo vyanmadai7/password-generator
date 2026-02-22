@@ -1,5 +1,5 @@
 ## Password Generator
-A clean and simple password generator that helps you create secure passwords right in your browser.....
+A clean and simple password generator that helps you create secure passwords right in your browser...........
 
 ## What it does
 Creates random passwords based on your preferences. You can choose:
